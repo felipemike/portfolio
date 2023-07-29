@@ -19,9 +19,9 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-900 font-semibold mt-12 my-3">
               <p className="text-justify text-xl leading-7 w-11/12 mx-auto">
-              Curso Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e estudo Desenvolvimento Web FullStack na Trybe, onde ficarei durante 1 ano imersa na programação estudando Javascript, Typescript, Node, ReactJs, SQL, Docker e várias outras tecnologias, além do desenvolvimento da SoftSkills durante todo o curso.
+              Minha paixão pela programação começou no mundo dos jogos, onde tive a oportunidade de contribuir para projetos open source. Essa experiência foi fundamental para consolidar minha dedicação à área e me motivou a me aprofundar no desenvolvimento web. Desde então, venho me encantando cada vez mais com a constante evolução da indústria e a possibilidade de aprender coisas novas todos os dias.
               <br />
-              <br /> Me considero uma entusiasta do conhecimento, sou completamente apaixonada por todo o processo de aprendizagem e gosto de trabalhar em  equipe. Esses foram alguns dos motivo pelo qual me encontrei na programação, área em que se está sempre aprendendo coisas novas e onde a colaboração é essencial.
+              <br /> Acredito que a programação é uma jornada de aprendizado contínuo, e estou ansioso(a) para enfrentar novos desafios, crescer profissionalmente e colaborar com colegas talentosos de equipe. Se você estiver interessado(a) em discutir uma possível colaboração ou apenas quiser trocar experiências, sinta-se à vontade para entrar em contato. Juntos, podemos construir um futuro empolgante no mundo da tecnologia!
               </p>
               <br />
               <br />
