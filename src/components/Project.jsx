@@ -35,7 +35,7 @@ const Project = () => {
       id: 5,
       title: "Trybe Tunes",
       imageSrc: TrybeTunes,
-      link: "https://github.com/felipemike/trybetunes",
+      link: "https://felipemike.github.io/trybetunes/",
     },
   ];
 
