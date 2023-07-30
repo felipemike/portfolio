@@ -2,7 +2,7 @@ import React from "react";
 import lessonsLearned from '../img/lessoonLeaned.png';
 import trybeWarts from '../img/trybeWarts.png'
 import PixelArt from '../img/pixelArt.png'
-import ShoppingCart from '../img/ShoppingCart.png'
+import RecipesApp from '../img/recipes-app.png'
 import TrybeTunes from '../img/TrybeTunes.png'
 
 const Project = () => {
@@ -27,9 +27,9 @@ const Project = () => {
     },
     {
       id: 4,
-      title: "Shopping Cart",
-      imageSrc: ShoppingCart,
-      link: "https://felipemike.github.io/Shopping-Cart/",
+      title: "Recipes App",
+      imageSrc: RecipesApp,
+      link: "https://felipemike.github.io/recipes-app/",
     },
     {
       id: 5,
